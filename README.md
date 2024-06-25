@@ -1,3 +1,3 @@
 # git_demo2
 
-some info
+about non-fast-forward merge
