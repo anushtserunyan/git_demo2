@@ -3,7 +3,5 @@ second line
 third line 
 fourth line
 
-Is it in a new branch?
-checking yet
-
-checking non-fast-forward merge
+It is definetly
+not the 2nd couplet
